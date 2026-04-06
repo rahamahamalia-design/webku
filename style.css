@@ -6,7 +6,7 @@ body{
   margin:0 auto;
 }
 
-.header{
+.content{
   width:90%;
   margin:auto;
   height:120px;
@@ -14,9 +14,43 @@ body{
   background:#417aa8;
   color:#fff;
 }
+ .border{
+      border:2px solid #4887b9;
+      margin-top:1pc;
+      padding-bottom:1pc;
+      padding-left:2pc;
+      padding-right:2pc;
+ }
+.kiri{
+    width:70%;
+    float:left;
+    margin:auto;
+    background:#fff;
+    height:420px;
+} 
 
-.jarak{
-     padding:0 2pc;
+.kanan{ 
+    width:70%;
+    float:left;
+    margin:auto;
+    background:#fff;
+    height:420px;
+}
+
+.undercor{
+  text-decoration:none;
+}
+
+.footer{
+    width:70%;
+    float:left;
+    margin:auto;
+    background:#fff;
+    height:420px;
+    line-height:40px;
+    background:#417aa8;
+    color:#fff;
+    margin-bottom: 1pc;
 }
 
 .menu{
@@ -43,7 +77,7 @@ body{
 }
 
 .menu el li a:hover {
-      background-color:#A9BB7D;
+      background-color:#4b88bb;
       display:block;
 }
   
