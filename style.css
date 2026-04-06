@@ -43,4 +43,7 @@ body{
 }
 
 .menu el li a:hover {
+      background-color:#A9BB7D;
+      display:block;
+}
   
