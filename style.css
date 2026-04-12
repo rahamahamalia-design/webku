@@ -1,5 +1,5 @@
 body{
-    background:#8FBC8F;
+    background:#556B2F;
     color:#8fbc8f;
     width:100%;
     font-family:sans-serif;
@@ -20,7 +20,7 @@ body{
 }
 
 .menu{
-    background-color:#8FBC8F;
+    background-color:#556B2F;
     height:50px;
     line-height:50px;
     position:relative;
@@ -43,7 +43,7 @@ body{
 }
 
 .menu ul li a:hover {
-    background-color:#8FBC8F;
+    background-color:#556B2F;
     display:block;
 }
 
